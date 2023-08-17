@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <username>Bert Pollich</username>
+        <password>6743</password>
+        <address>7594 Zemlak Pines</address>
+        <age>22</age>
+        <islive>false</islive>
+    </user>
+    <user>
+        <username>Aurelia Larson</username>
+        <password>9952</password>
+        <address>19353 Abe Ranch</address>
+        <age>4</age>
+        <islive>true</islive>
+    </user>
+</users>
